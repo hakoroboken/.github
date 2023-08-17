@@ -4,7 +4,6 @@
 
 ## Build Status
 
-|
 | package name | status |
 |--|--|
 | [roboware](https://github.com/hakoroboken/roboware) | ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/main.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/vcs-import.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/build.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg_thirdparty.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg.yml/badge.svg)|
