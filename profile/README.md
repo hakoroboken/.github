@@ -8,7 +8,7 @@
 |--|--|
 | [roboware](https://github.com/hakoroboken/roboware) | ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/main.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/vcs-import.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/build.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg_thirdparty.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg.yml/badge.svg)|
 | [roboware_launch](https://github.com/hakoroboken/roboware_launch) | ![roboware_launch](https://github.com/hakoroboken/roboware_launch/actions/workflows/main.yml/badge.svg) |
-| [roboware_msg](https://github.com/hakoroboken/safe_smart_controller_gateway) | ![safe_smart_controller_gateway](https://github.com/hakoroboken/safe_smart_controller_gateway/actions/workflows/main.yml/badge.svg) |
+| [roboware_msg](https://github.com/hakoroboken/roboware_msg) | ![safe_smart_controller_gateway](https://github.com/hakoroboken/roboware_msg/actions/workflows/main.yml/badge.svg) |
 | [safe_smart_controller_gateway](https://github.com/hakoroboken/safe_smart_controller_gateway) | ![safe_smart_controller_gateway](https://github.com/hakoroboken/safe_smart_controller_gateway/actions/workflows/main.yml/badge.svg) |
 | [rc_msg_converter](https://github.com/hakoroboken/rc_msg_converter) | ![roboware_msg](https://github.com/hakoroboken/rc_msg_converter/actions/workflows/main.yml/badge.svg) |
 | [mdc_transporter](https://github.com/hakoroboken/mdc_transporter) | ![roboware_msg](https://github.com/hakoroboken/mdc_transporter/actions/workflows/main.yml/badge.svg) |
