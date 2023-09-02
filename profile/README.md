@@ -20,4 +20,4 @@
 | [network_module_util](https://github.com/hakoroboken/network_module_util) | ![network_module_util](https://github.com/hakoroboken/network_module_util/actions/workflows/rust.yml/badge.svg) |
 | [ros2_rust_util](https://github.com/TakanoTaiga/ros2_rust_util) | ![ros2_rust_util](https://github.com/TakanoTaiga/ros2_rust_util/actions/workflows/rust.yml/badge.svg) |
 | [planning_util](https://github.com/hakoroboken/planning_util) | ![planning_util](https://github.com/hakoroboken/planning_util/actions/workflows/main.yml/badge.svg) |
-| [ros2_ekf_util](https://github.com/hakoroboken/ros2_ekf_util) | ![ros2_ekf_util](https://github.com/hakoroboken/ros2_ekf_util/actions/workflows/main.yml/badge.svg) |
+| [ekf_rust_util](https://github.com/hakoroboken/ekf_rust_util) | ![ros2_ekf_util](https://github.com/hakoroboken/ros2_ekf_util/actions/workflows/main.yml/badge.svg) |
