@@ -17,7 +17,7 @@
 | [rc_msg_converter](https://github.com/hakoroboken/rc_msg_converter) | ![rc_msg_converter](https://github.com/hakoroboken/rc_msg_converter/actions/workflows/main.yml/badge.svg) | ✅ |
 | [mdc_transporter](https://github.com/hakoroboken/mdc_transporter) | ![mdc_transporter](https://github.com/hakoroboken/mdc_transporter/actions/workflows/main.yml/badge.svg) | ✅ |
 | [manual_mode_common](https://github.com/hakoroboken/manual_mode_common) | ![manual_mode_common](https://github.com/hakoroboken/manual_mode_common/actions/workflows/main.yml/badge.svg) | ✅ |
-| [motor_control_common](https://github.com/hakoroboken/motor_control_common) | ![motor_control_common](https://github.com/hakoroboken/motor_control_common/actions/workflows/main.yml/badge.svg) | 🚧 |
+| [motor_control_common](https://github.com/hakoroboken/motor_control_common) | ![motor_control_common](https://github.com/hakoroboken/motor_control_common/actions/workflows/main.yml/badge.svg) | ✅ |
 
 | library name | status | document |
 |--|--|:--:|
