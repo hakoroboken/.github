@@ -5,11 +5,11 @@
 ## Build Status
 | doc name | status |
 |--|--|
-| [roboware_docs](https://github.com/hakoroboken/roboware_docs) | ![roboware_docs](https://github.com/hakoroboken/roboware_docs/actions/workflows/main.yml/badge.svg) |
+| [roboware_docs](https://github.com/hakoroboken/roboware_docs) | ![roboware_docs](https://github.com/hakoroboken/roboware_docs/actions/workflows/main.yml/badge.svg) ![roboware_docs](https://github.com/hakoroboken/roboware_docs/actions/workflows/test.yml/badge.svg)|
 
 | package name | status | document |
 |--|--|:--:|
-| [roboware](https://github.com/hakoroboken/roboware) | ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/main.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/vcs-import.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/build.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg_thirdparty.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg.yml/badge.svg)| ✅ |
+| [roboware](https://github.com/hakoroboken/roboware) | ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/main.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/vcs-import.yml/badge.svg) ![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg_thirdparty.yml/badge.svg)![roboware](https://github.com/hakoroboken/roboware/actions/workflows/make_deb_pkg.yml/badge.svg)| ✅ |
 | [roboware_launch](https://github.com/hakoroboken/roboware_launch) | ![roboware_launch](https://github.com/hakoroboken/roboware_launch/actions/workflows/main.yml/badge.svg) | ✅ |
 | [roboware_msg](https://github.com/hakoroboken/roboware_msg) | ![roboware_msg](https://github.com/hakoroboken/roboware_msg/actions/workflows/main.yml/badge.svg) | ✅ |
 | [roboware_path_planner](https://github.com/hakoroboken/roboware_path_planner) | ![roboware_path_planner](https://github.com/hakoroboken/roboware_path_planner/actions/workflows/main.yml/badge.svg) | 🚧 |
