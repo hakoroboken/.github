@@ -4,7 +4,7 @@
 
 ## リポジトリ一覧
 
-### [**hakorobowiki**](https://github.com/hakoroboken/hakorobowiki)
+### [**hakorobowiki**](https://hakoroboken.github.io/hakorobowiki)
 Hakorobokenで活動するために必要な知識がまとめられたwiki.
 
 ### [**roboware-neo.universe**](https://github.com/hakoroboken/roboware-neo.universe)
