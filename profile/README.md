@@ -17,10 +17,10 @@ Motor Control Unit (MCU)に搭載されている`W5500-EVB-Pico`用のファー�
 
 MCUのロボマスター拡張版に搭載されている`Nucleo F303K8`用のファームウェア。Mbedで記述されている。ただしMCU規格において必須のマイコンではない。
 
+### [**md2**](https://github.com/hakoroboken/md2)
+自己位置くんの基板。hakorobokenに移行予定
 
 ## 外部リポジトリ
 
-- [TakanoTaiga/md2](https://github.com/TakanoTaiga/md2)
-  - 自己位置くんの基板。hakorobokenに移行予定
 - [TakanoTaiga/mcu_debuger](https://github.com/TakanoTaiga/mcu_debuger)
   - ロボットのコントローラ。MCU用
