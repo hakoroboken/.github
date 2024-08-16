@@ -10,6 +10,9 @@ Hakorobokenで活動するために必要な知識がまとめられたwiki.
 ### [**roboware-neo.universe**](https://github.com/hakoroboken/roboware-neo.universe)
 完全自律移動ロボット用ソフトウェア群。ROS 2 + C++で記述されている。
 
+### [**rustic_rover**](https://github.com/hakoroboken/rustic_rover)
+Robot Controller software made with Rust and iced
+
 ### [**mcu_fw**](https://github.com/hakoroboken/mcu_fw)
 Motor Control Unit (MCU)に搭載されている`W5500-EVB-Pico`用のファームウェア。Arduinoで記述されている。
 
