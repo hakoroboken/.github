@@ -7,8 +7,8 @@
 ## 2024年「ロボたちの帰還」
 
 - **[Aチームメイン](https://github.com/hakoroboken/RoboCon2024)**
-- **[AチームR2ソフトウェアRust部分](https://github.com/hakoroboken/Rust_from_Unity)**
-- **[AチームR2ソフトウェアUnity部分](https://github.com/hakoroboken/Unity_to_Rust)**
+- **[AチームR2ソフトウェアRust部分](https://github.com/hakoroboken/2024-Rust_from_Unity)**
+- **[AチームR2ソフトウェアUnity部分](https://github.com/hakoroboken/2024-Unity_to_Rust)**
 - **[Aチーム全国時のR2の電源基盤](https://github.com/hakoroboken/2024_R2_dengenkiban)**
 - **[BチームR1ソフトウェアロボット側](https://github.com/hakoroboken/B_robo_1)**
 - **[BチームR1ソフトウェア選手側](https://github.com/hakoroboken/control_robot_all)**
