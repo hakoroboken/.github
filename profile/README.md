@@ -4,6 +4,13 @@
 
 # リポジトリ一覧
 
+## 共通ライブラリ
+- **[hakorobo_common](https://github.com/hakoroboken/hakorobo_common)**
+
+## 自律走行パッケージ群
+
+- **[hakorobo_auto](https://github.com/hakoroboken/hakorobo_auto)**
+
 ## 2024年「ロボたちの帰還」
 
 - **[Aチームメイン](https://github.com/hakoroboken/RoboCon2024)**
